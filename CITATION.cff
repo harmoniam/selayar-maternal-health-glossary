@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this glossary, please cite it as below."
+title: "Japanese–Indonesian Maternal and Child Health Terminology Glossary: A Bidirectional Reference for the Selayar Project"
+version: 1.0.0
+# date-released: set to the release date (YYYY-MM-DD) when v1.0.0 is published
+# doi: add the Zenodo version DOI here after it is reserved
+authors:
+  - family-names: Masuda
+    given-names: Gaku
+    affiliation: "Institute of Tropical Medicine, Nagasaki University"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"  # add if available
+license: CC-BY-4.0
+abstract: >-
+  Bilingual glossary of Japanese–Indonesian and Indonesian–Japanese terminology
+  for maternal and child health, perinatal care, obstetric emergencies, referral
+  systems, telemedicine, and healthcare financing. Prepared in connection with
+  field research in the Selayar Islands, South Sulawesi, Indonesia. Educational
+  reference only; not a substitute for clinical guidelines or professional
+  medical interpretation.
+keywords:
+  - maternal health
+  - midwifery
+  - perinatal care
+  - Japanese
+  - Indonesian
+  - Selayar
+  - telemedicine
