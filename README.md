@@ -19,6 +19,8 @@ One booklet containing both directions:
 
 479 entries per direction, alphabetical order (romaji for Part 1, Indonesian for Part 2). A5 booklet; duplex booklet printing recommended.
 
+**Interpreter edition:** the same 479 terms with the Japanese → Indonesian part in gojūon order (あいうえお順) is available at https://github.com/harmoniam/selayar-maternal-health-glossary-interpreter (DOI [10.5281/zenodo.24299592](https://doi.org/10.5281/zenodo.24299592)).
+
 ## Scope
 
 Maternal and child health, perinatal care, obstetric emergencies, referral systems, telemedicine, and healthcare financing, with short explanatory notes on selected Japanese healthcare and health insurance concepts.

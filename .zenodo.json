@@ -21,5 +21,13 @@
   "license": "cc-by-4.0",
   "version": "1.0.0",
   "access_right": "open",
-  "publication_date": "2026-11-17"
+  "publication_date": "2026-11-17",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.24299592",
+      "relation": "hasVariantForm",
+      "resource_type": "publication-other",
+      "scheme": "doi"
+    }
+  ]
 }
