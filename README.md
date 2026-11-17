@@ -5,10 +5,17 @@ A bidirectional reference for the Selayar Project.
 
 ## Contents
 
-- JP-ID/: Japanese → Indonesian (Word and PDF)
-- ID-JP/: Indonesian → Japanese (Word and PDF)
+One booklet containing both directions:
 
-479 entries per direction, alphabetical order. A5 booklet; duplex booklet printing recommended.
+- Part 1: Japanese → Indonesian (pp. 1–19)
+- Part 2: Indonesian → Japanese (pp. 20–35)
+
+| File | Format |
+|---|---|
+| `Selayar_MCH_Glossary_JP-ID_ID-JP_v1.0.0.pdf` | Print-ready PDF (A5, 35 pages) |
+| `Selayar_MCH_Glossary_JP-ID_ID-JP_v1.0.0.docx` | Editable Word (book fold layout) |
+
+479 entries per direction, alphabetical order (romaji for Part 1, Indonesian for Part 2). A5 booklet; duplex booklet printing recommended.
 
 ## Scope
 

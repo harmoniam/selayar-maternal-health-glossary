@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this glossary, please cite it as below."
 title: "Japanese–Indonesian Maternal and Child Health Terminology Glossary: A Bidirectional Reference for the Selayar Project"
 version: 1.0.0
-# date-released: set to the release date (YYYY-MM-DD) when v1.0.0 is published
+date-released: 2026-11-17
 # doi: add the Zenodo version DOI here after it is reserved
 authors:
   - family-names: Masuda
