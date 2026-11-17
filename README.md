@@ -1,5 +1,7 @@
 # Japanese–Indonesian Maternal and Child Health Terminology Glossary
 
+[![DOI](https://zenodo.org/badge/1460943024.svg)](https://doi.org/10.5281/zenodo.24298767)
+
 A bidirectional reference for the Selayar Project.
 母子保健・周産期医療 日本語・インドネシア語専門用語辞典 / Kamus Istilah Kesehatan Ibu dan Anak Jepang–Indonesia
 
@@ -31,7 +33,12 @@ This is the first edition (prototype edition), compiled with the assistance of A
 
 ## Citation
 
-See CITATION.cff. The DOI will be added after Zenodo registration.
+Masuda, G. (2026). *Japanese–Indonesian Maternal and Child Health Terminology Glossary: A Bidirectional Reference for the Selayar Project* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24298768
+
+- DOI for v1.0.0: [10.5281/zenodo.24298768](https://doi.org/10.5281/zenodo.24298768)
+- DOI for all versions (always resolves to the latest): [10.5281/zenodo.24298767](https://doi.org/10.5281/zenodo.24298767)
+
+See also CITATION.cff.
 
 ## License
 
