@@ -35,8 +35,9 @@ This is the first edition (prototype edition, revision 1.1), compiled with the a
 
 ## Citation
 
-Masuda, G. (2026). *Japanese–Indonesian Maternal and Child Health Terminology Glossary: A Bidirectional Reference for the Selayar Project* (Version 1.1.0). Zenodo. https://doi.org/10.5281/zenodo.24298767
+Masuda, G. (2026). *Japanese–Indonesian Maternal and Child Health Terminology Glossary: A Bidirectional Reference for the Selayar Project* (Version 1.1.0). Zenodo. https://doi.org/10.5281/zenodo.24327606
 
+- DOI for v1.1.0: [10.5281/zenodo.24327606](https://doi.org/10.5281/zenodo.24327606)
 - DOI for v1.0.0: [10.5281/zenodo.24298768](https://doi.org/10.5281/zenodo.24298768)
 - DOI for all versions (always resolves to the latest): [10.5281/zenodo.24298767](https://doi.org/10.5281/zenodo.24298767)
 
